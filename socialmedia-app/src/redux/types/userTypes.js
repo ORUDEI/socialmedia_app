@@ -1,0 +1,7 @@
+export const UPDATING_START = "UPDATING_START";
+export const UPDATING_SUCCESS = "UPDATING_SUCCESS";
+export const UPDATING_FAIL = "UPDATING_FAIL";
+
+export const FOLLOW_USER = "FOLLOW_USER";
+
+export const UNFOLLOW_USER = "UNFOLLOW_USER";
